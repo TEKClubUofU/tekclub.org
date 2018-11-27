@@ -1,2 +1,2 @@
-# website
-tekclub.org website
+# tekclub.org Website Project
+Code will be committed to this repository
