@@ -1,2 +1,0 @@
-# website
-tekclub.org website
